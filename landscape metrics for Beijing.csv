@@ -1,0 +1,25 @@
+s/n,layer,level,class,id,metric,value,name,type,function_name
+1,1,class,0,NA,lpi,2.198630253,largest patch index,area and edge metric,lsm_c_lpi
+2,1,class,1,NA,lpi,0.451363619,largest patch index,area and edge metric,lsm_c_lpi
+3,1,class,2,NA,lpi,35.00191979,largest patch index,area and edge metric,lsm_c_lpi
+4,1,class,3,NA,lpi,0.091329648,largest patch index,area and edge metric,lsm_c_lpi
+5,1,class,0,NA,lsi,419.4563087,landscape shape index,aggregation metric,lsm_c_lsi
+6,1,class,1,NA,lsi,466.2610387,landscape shape index,aggregation metric,lsm_c_lsi
+7,1,class,2,NA,lsi,319.5336837,landscape shape index,aggregation metric,lsm_c_lsi
+8,1,class,3,NA,lsi,66.80851064,landscape shape index,aggregation metric,lsm_c_lsi
+9,1,class,0,NA,np,108689,number of patches,aggregation metric,lsm_c_np
+10,1,class,1,NA,np,136874,number of patches,aggregation metric,lsm_c_np
+11,1,class,2,NA,np,49223,number of patches,aggregation metric,lsm_c_np
+12,1,class,3,NA,np,6164,number of patches,aggregation metric,lsm_c_np
+13,1,class,0,NA,pd,47.66640141,patch density,aggregation metric,lsm_c_pd
+14,1,class,1,NA,pd,60.02715111,patch density,aggregation metric,lsm_c_pd
+15,1,class,2,NA,pd,21.58712728,patch density,aggregation metric,lsm_c_pd
+16,1,class,3,NA,pd,2.703269865,patch density,aggregation metric,lsm_c_pd
+17,1,class,0,NA,pland,26.29915382,percentage of landscape,area and edge metric,lsm_c_pland
+18,1,class,1,NA,pland,28.97433845,percentage of landscape,area and edge metric,lsm_c_pland
+19,1,class,2,NA,pland,43.21419839,percentage of landscape,area and edge metric,lsm_c_pland
+20,1,class,3,NA,pland,1.512309329,percentage of landscape,area and edge metric,lsm_c_pland
+21,1,class,0,NA,area_mn,0.55173357,patch area,area and edge metric,lsm_c_area_mn
+22,1,class,1,NA,area_mn,0.482687216,patch area,area and edge metric,lsm_c_area_mn
+23,1,class,2,NA,area_mn,2.001850355,patch area,area and edge metric,lsm_c_area_mn
+24,1,class,3,NA,area_mn,0.559437054,patch area,area and edge metric,lsm_c_area_mn
